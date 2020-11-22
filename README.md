@@ -14,3 +14,6 @@ ver cómo el programa arroja el resultado.
 Función predeterminada integración por regla del trapecio compuesta: 1/x^2 con inicio en 1, fin en 2
 y 5 aproximaciones
 
+Función predeterminada para integración por sumas de Riemann: x^2-2, en este caso decidimos que el
+usuario debe asignar el inicio, el fin y la cantidad de intervalos.
+
