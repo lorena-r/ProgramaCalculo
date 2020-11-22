@@ -20,5 +20,5 @@ usuario debe asignar el inicio, el fin y la cantidad de intervalos.
 Adicionalmente se agregaron las librerias: DJEP, JEP externas como ayuda, resultado del autoestudio 
 en este proceso y que son fundamentales para el correcto funcionamiento de la derivada.
 
-El usuario debera ejecutar MenuIntegrales en el proyecto para empezar a navegar.
+El usuario debera ejecutar PRINCIPAL en el proyecto para empezar a navegar.
 
